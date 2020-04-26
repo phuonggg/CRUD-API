@@ -1,8 +1,0 @@
-{
-  "name": "CRUD-API",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/phuonggg/CRUD-API.git",
-  "author": "phuonggg <tieuphuong.ftu@gmail.com>",
-  "license": "MIT"
-}
